@@ -17,7 +17,7 @@ Minecraft plugin that removes seaweed (seagrass, kelp) without server lag.
 ```xml
 <!-- If it's a library -->
 <dependency>
-  <groupId>com.github.ваш-ник</groupId>
+  <groupId>com.github.DarkysikHub</groupId>
   <artifactId>SeaweedClear</artifactId>
   <version>1.0</version>
 </dependency>
