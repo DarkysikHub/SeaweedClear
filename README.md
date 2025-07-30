@@ -1,14 +1,3 @@
-Here's a polished GitHub description and comprehensive README.md for your SeaweedClear plugin:
-
----
-
-**GitHub Description**  
-🌊 SeaweedClear | Smart Aquatic Vegetation Manager for Minecraft  
-*A high-performance plugin that efficiently clears seaweed, kelp, and sea grass with customizable radius, multi-world support, and real-time progress tracking. Perfect for server maintenance and world editing.*
-
----
-
-**README.md**  
 ```markdown
 # 🌊 SeaweedClear 
 
