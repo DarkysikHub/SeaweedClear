@@ -113,5 +113,3 @@ MIT License - See [LICENSE](LICENSE) for details.
 - Add screenshots of the cleaning process
 - Include a version compatibility matrix if supporting multiple MC versions
 - Add a "Contributing" section for open-source projects
-
-This professional layout combines visual appeal with comprehensive documentation, making it attractive for both server admins and developers.
