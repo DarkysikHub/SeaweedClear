@@ -38,7 +38,6 @@
 
 ## ⚙ Конфигурация
 
-```yaml
 # plugins/SeaweedClear/config.yml
 language: en # en/ru
 logging:
