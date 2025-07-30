@@ -4,7 +4,8 @@
 [![Java](https://img.shields.io/badge/Java-8%2B-orange?logo=openjdk)](https://java.com)
 [![Spigot](https://img.shields.io/badge/Spigot-1.13%2B-yellow)](https://www.spigotmc.org)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-![Language](https://img.shields.io/badge/language-english-red)
+[![Language](https://img.shields.io/badge/language-english-red)](https://github.com/DarkysikHub/SeaweedClear/blob/main/README.md)
+[![Language](https://img.shields.io/badge/language-russian-red)](https://github.com/DarkysikHub/SeaweedClear/blob/main/README-RU.md)
 
 The ultimate solution for managing aquatic vegetation in Minecraft servers. Clear seaweed, kelp, and sea grass with surgical precision while maintaining optimal server performance.
 
