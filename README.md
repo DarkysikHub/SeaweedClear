@@ -3,6 +3,7 @@
 
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![MC Versions](https://img.shields.io/badge/Supported%20MC-1.13%2B-blue)](https://img.shields.io)
+[![Spigot](https://img.shields.io/badge/Spigot-1.13%2B-yellow?logo=java)](https://www.spigotmc.org)
 
 The ultimate solution for managing aquatic vegetation in Minecraft servers. Clear seaweed, kelp, and sea grass with surgical precision while maintaining optimal server performance.
 
