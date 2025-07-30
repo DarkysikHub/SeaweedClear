@@ -6,8 +6,6 @@
 
 The ultimate solution for managing aquatic vegetation in Minecraft servers. Clear seaweed, kelp, and sea grass with surgical precision while maintaining optimal server performance.
 
-![Demo GIF](https://example.com/path/to/your/demo.gif) *(Replace with actual demo image)*
-
 ## ✨ Features
 
 - **Smart Clearing** - Remove 5+ types of aquatic plants
