@@ -3,7 +3,8 @@
 [![Java](https://img.shields.io/badge/Java-8%2B-orange?logo=openjdk)](https://java.com)
 [![Spigot](https://img.shields.io/badge/Spigot-1.13%2B-yellow)](https://www.spigotmc.org)
 [![Лицензия](https://img.shields.io/badge/лицензия-MIT-green.svg)](LICENSE)
-![Язык](https://img.shields.io/badge/язык-русский-red)
+[![Язык](https://img.shields.io/badge/язык-русский-red)](https://github.com/DarkysikHub/SeaweedClear/blob/main/README-RU.md)
+[![Язык](https://img.shields.io/badge/язык-английский-red)](https://github.com/DarkysikHub/SeaweedClear/blob/main/README.md)
 
 Идеальное решение для управления водной растительностью на Minecraft-серверах. Эффективно очищает водоросли, ламинарию и морскую траву с хирургической точностью, не нагружая сервер.
 
