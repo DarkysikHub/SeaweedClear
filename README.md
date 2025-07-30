@@ -91,25 +91,3 @@ api.startCleaning(world, radius, callback);
 ## 📄 License
 
 MIT License - See [LICENSE](LICENSE) for details.
-
-```
-
----
-
-**Key README Sections Explained**:
-
-1. **Visual Badges** - Quick info about compatibility/license
-2. **Features List** - Highlights core functionality with emojis
-3. **Install Guide** - Simple 4-step setup process
-4. **Command Table** - Well-formatted command reference
-5. **Config Preview** - Shows default configuration
-6. **Localization** - Explains translation support
-7. **Permission System** - Documents all permissions
-8. **API Usage** - Developer integration example
-9. **Roadmap** - Shows future development plans
-
-**Pro Tips**:
-- Replace the demo GIF placeholder with actual gameplay footage
-- Add screenshots of the cleaning process
-- Include a version compatibility matrix if supporting multiple MC versions
-- Add a "Contributing" section for open-source projects
